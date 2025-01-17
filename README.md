@@ -1,2 +1,3 @@
 # subtitle_displace
-desynced .srt files? Use this script to change timecodes for all subtitles by a number of seconds
+.srt files desynced from the movie you just downloaded? Use this script to change timecodes for all subtitles by a number of seconds
+will introduce more complex features upon sufficient demand from users or myself
